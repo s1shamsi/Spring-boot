@@ -1,4 +1,4 @@
-package Models;
+package com.codeline.sbDemoBatch2.Models;
 
 import lombok.Data;
 import lombok.Getter;

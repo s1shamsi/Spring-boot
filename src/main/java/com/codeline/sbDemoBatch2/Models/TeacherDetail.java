@@ -1,4 +1,4 @@
-package Models;
+package com.codeline.sbDemoBatch2.Models;
 
 
 import lombok.Data;
@@ -25,7 +25,7 @@ public class TeacherDetail {
     String address;
 
     @OneToOne
-    Teacher teacher;
+   Teacher teacher;
 
 
 }
